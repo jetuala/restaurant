@@ -1,3 +1,15 @@
+## My restaurant reservation website.
+
+Here is my restaurant reservation website, based on another Danny Thompson suggestion.
+
+Here I am planning to create a simple website where users can log in, reserve a table for a certain party size at a certain time, and get an email confirmation in return. This hypothetical restaurant will feature 20(?) available tables and have a time limit of 2.5 hours per party.
+
+# Currently working on:
+
+I've already had to restart this project several times! I want to use Typescript in this website, in addition to Tailwind. I had some difficulty setting up my initial Git repository; apparently I had to create a new SSH key? I don't recall having to do that with any of my previous projects, so hopefully that was just a one-off problem.
+
+But for now, I'm just decided on basic structure and getting used to when/where to use Typescript and TSX.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
